@@ -13,7 +13,7 @@ Resources:
       Tags:
         -
           Key: Appplication
-          Value:  Maji Server
+          Value:  luwam Server
 
   WebAppSecurityGroup:
     Type: AWS::EC2::SecurityGroup
